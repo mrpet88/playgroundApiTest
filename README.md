@@ -11,6 +11,4 @@ run with tags
 
 api-playground node.js application folder should be at the same folder with playgroundApiTest folder(test suite)
 Folders Structure:
---projects
-  --api-playground
-  --playgroundApiTest
+
