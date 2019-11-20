@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create an API demo with basic functions","Post a product","SUCCESS","2019-11-20T10:12:59.1423658+01:00[Europe/Berlin]","0.0","2.85"
+"Create an API demo with basic functions","Get an existing product","SUCCESS","2019-11-20T10:13:01.9962473+01:00[Europe/Berlin]","0.0","0.71"
+"Create an API demo with basic functions","Update an existing product","SUCCESS","2019-11-20T10:13:02.7133282+01:00[Europe/Berlin]","0.0","0.12"
+"Create an API demo with basic functions","Delete an existing product","SUCCESS","2019-11-20T10:13:02.8359997+01:00[Europe/Berlin]","0.0","0.07"
