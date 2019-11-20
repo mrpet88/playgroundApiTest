@@ -10,5 +10,4 @@ run with tags
 -mvn clean verify -Dcucumber.options="--tags @{tagName}
 
 api-playground node.js application folder should be at the same folder with playgroundApiTest folder(test suite)
-Folders Structure:
 
