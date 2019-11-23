@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Create an API demo with basic functions" skipped="0" tests="4" time="5.99" timestamp="2019-11-20 03:04:14"><testcase name="Post a product"/><testcase name="Get an existing product"/><testcase name="Update an existing product"/><testcase name="Delete an existing product"/></testsuite>
